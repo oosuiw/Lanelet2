@@ -360,6 +360,7 @@ struct AttributeValueString {
 
   // Regulatory elements
   static constexpr const char TrafficLight[] = "traffic_light";
+  static constexpr const char TrafficMirror[] = "traffic_mirror"; //KMS_250313
   static constexpr const char TrafficSign[] = "traffic_sign";
   static constexpr const char SpeedLimit[] = "speed_limit";
   static constexpr const char RightOfWay[] = "right_of_way";
